@@ -1,9 +1,13 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" height="220" style="object-fit: cover;" alt="Banner"/>
+</div>
+<!--BANNER REFERENCE 1
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=150&section=header" width="100%" alt="Banner"/>
   <a href="https://github.com/NovrianPratama">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Novrian+Pratama;Data+Analyst+%26+Business+Intelligence+Specialist;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Looker+Studio+%C2%B7+Excel;Turning+FMCG+%26+Logistics+Data+into+Actionable+Insights" alt="Typing SVG" />
   </a>
-</div>
+</div> -->
 
 <h1 align="center">Hi 👋, I'm Novrian Pratama</h1>
 <h3 align="center">Data Analyst & Business Intelligence Specialist | FMCG & Logistics Analytics</h3>
