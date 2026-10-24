@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/5a51e293c9f568a66c3ccf3f4eb397c77706120b077be0cabca9f0bd271374dd/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0284c7&height=230&section=header&text=Novrian%20Pratama&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%26%20BI%20Specialist%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Looker%20Studio%20%C2%B7%20Excel&descAlignY=58&descSize=18" width="100%" alt="Banner"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Novrian Pratama</h1>
