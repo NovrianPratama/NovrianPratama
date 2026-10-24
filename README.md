@@ -1,5 +1,30 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" height="220" style="object-fit: cover;" alt="Banner"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0F172A,50:0369A1,100:0EA5E9&text=Novrian%20Pratama&fontColor=FFFFFF&fontSize=48&fontAlignY=36&animation=fadeIn&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Digital%20Systems&descColor=E0F2FE&descSize=18&descAlignY=58" width="100%" alt="Novrian Pratama - Data Analyst, Business Intelligence, Digital Systems"/>
+
+  <a href="https://github.com/NovrianPratama">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&height=40&lines=Turning+FMCG+%26+logistics+data+into+business+decisions;Building+dashboards+%26+automated+reporting+pipelines;Information+Systems+graduate+%C2%B7+GPA+3.89;Open+to+Data+Analyst+%26+BI+roles+in+FMCG" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=0EA5E9" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=0EA5E9" alt="Python"/>
+  <img src="https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=0EA5E9" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-0F172A?style=for-the-badge&logo=looker&logoColor=0EA5E9" alt="Looker Studio"/>
+  <img src="https://img.shields.io/badge/Excel-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=0EA5E9" alt="Excel"/>
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/USERNAME-KAMU">
+    <img src="https://img.shields.io/badge/LinkedIn-0369A1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:novrianprtama2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0369A1?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0EA5E9,50:0369A1,100:0F172A" width="100%" alt=""/>
+
 </div>
 <!--BANNER REFERENCE 1
 <!-- <div align="center">
