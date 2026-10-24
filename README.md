@@ -19,22 +19,12 @@
 
 > *"Turning messy operational and commercial data into automated pipelines and dashboards that people actually use."* 🚀
 
-I'm an **Information Systems graduate** (GPA 3.89/4.00, Bank Indonesia Scholarship awardee[cite: 5]) with a strong passion for data. My professional journey spans **FMCG and logistics**[cite: 2]:
+Data Analyst with **1+ year of hands-on experience** across FMCG and logistics, spanning internships, professional roles, and analytics projects. 
 
-* 🏢 **Current:** Sales Digital Business Application Intern at **PT Amerta Indah Otsuka** *(Jakarta)* — Automating weekly store audit reporting with Python and MySQL, and building national Looker Studio dashboards[cite: 2].
-* 🚚 **Before:** Network Quality Specialist at **J&T Cargo Indonesia** & Area Marketing Intern at **PT Nutrifood Indonesia**[cite: 2].
-* 🎯 **Looking for:** Data Analyst, BI Analyst, and Business / Commercial Analyst roles in Jakarta[cite: 2].
-* 📄 **Explore More:** [Portfolio 2026 📈](https://drive.google.com/file/d/1YtuOr8LP7M8rqQa-i6SHXCHPOCWu-gPW/view?usp=sharing) · [Linktree 🔗](https://linktr.ee/novrianpratama)[cite: 3, 5]
-
----
-
-## 💡 How I Work
-
-1. 🎯 **Start from the decision:** What precise business question does this data need to answer?[cite: 2]
-2. ⚙️ **Automate the boring parts:** Build repeatable pipelines (`SQL`, `Python`, `Power Query`) instead of manual one-off spreadsheets[cite: 2].
-3. 📈 **Deliver the "so what":** Design dashboards and insights that prompt immediate action, not just static charts[cite: 2].
-
----
+* 🏢 **Current:** Sales Digital Business Application Intern at **PT Amerta Indah Otsuka** *(Jakarta)* Building Python and MySQL pipelines and Looker Studio dashboards that turn 3,600+ weekly audit records into national visibility reporting.
+* 🚚 **Before:** Network Quality Specialist at **J&T Cargo Indonesia** (analyzed 200,000+ logistics records, supporting 98% SLA across 77 outlets) & Area Marketing Intern at **PT Nutrifood Indonesia**.
+* 🎯 **Looking for:** Data Analyst, BI Analyst, and Business / Commercial Analyst roles in Jakarta.
+* 📄 **Explore More:** [Portfolio 2026 📈](https://drive.google.com/file/d/1YtuOr8LP7M8rqQa-i6SHXCHPOCWu-gPW/view?usp=sharing) · [Linktree 🔗](https://linktr.ee/novrianpratama)
 
 ## 🛠️ Tech Stack & Toolkit
 
@@ -61,32 +51,33 @@ I'm an **Information Systems graduate** (GPA 3.89/4.00, Bank Indonesia Scholarsh
 
 ## 🚀 Featured Projects
 
-* 🛒 **1. National Sales Visibility & Audit Automation** · *PT Amerta Indah Otsuka* (`FMCG / Retail`)[cite: 2]
-  * Automated weekly labeling of **3,600+ store audit records** via Python[cite: 2].
-  * Consolidated **100,000+ cumulative visibility records** and deployed **2 national Looker Studio dashboards**[cite: 2].
-  * *Stack:* `MySQL` · `Python` · `Google Sheets` · `Looker Studio`[cite: 2]
+* 🛒 **1. National Sales Visibility & Audit Automation** · *PT Amerta Indah Otsuka* (`FMCG / Retail`)
+  * Built a Python automation pipeline to label **3,600+ weekly visibility audit records**.
+  * Extracted 80,000+ raw records weekly via MySQL and consolidated **100,000+ cumulative visibility records** in Google Sheets.
+  * Developed **2 Looker Studio dashboards** to monitor daily visibility rates and display issues across regions.
+  * *Stack:* `MySQL` · `Python` · `Google Sheets` · `Looker Studio`
 
-* 📦 **2. Logistics SLA & Exception Monitoring Dashboard** · *J&T Cargo Indonesia* (`Logistics`)[cite: 2]
-  * Built Power Query dashboards for **200,000+ shipment records** across 77 outlets[cite: 2].
-  * Tracked 80–120 daily exceptions to successfully sustain a **98% SLA**[cite: 2].
-  * *Stack:* `Excel` · `Power Query` · `Power Pivot` · `Pivot Table`[cite: 2]
+* 📦 **2. Logistics Performance Dashboard** · *J&T Cargo Indonesia* (`Logistics`).
+  * Built an automated Excel Power Query dashboard processing **200,000+ logistics records** across 77 outlets.
+  * Resolved 80–120 daily shipment exceptions, successfully maintaining a **98% SLA**.
+  * *Stack:* `Excel` · `Power Query` · `Power Pivot` · `Pivot Table`.
 
-* 🚚 **3. E-Commerce Delivery Timeliness Analysis** · *Published in PREDATECS Journal* (`Supply Chain`)[cite: 2, 9]
-  * Analyzed **10,999 shipment records** using 8-fold cross-validation across 5 supervised models[cite: 2].
-  * *Stack:* `Python` · `Scikit-Learn` · `Pandas` · `Matplotlib`[cite: 2]
+* 🚚 **3. E-Commerce Delivery Performance Analysis** · *Published in PREDATECS Journal* (`Supply Chain`)
+  * Analyzed **10,999 shipment records** and evaluated 5 classification algorithms using 8-fold cross-validation.
+  * *Stack:* `Python` · `Scikit-Learn` · `Pandas` · `Matplotlib`
 
 ### 🔬 Applied Machine Learning
-* **NeuroSight: Brain Tumor Classification with XAI** *(Undergraduate Thesis)*[cite: 2] — Compared 27 deep learning configs on **2,765 MRI scans** (**97% accuracy**) with a Flask app & Grad-CAM[cite: 2]. (`Python` · `TensorFlow` · `Flask`)[cite: 2]
-* **Foodinary: Indonesian Culinary Classifier** *(DBS Coding Camp Capstone)*[cite: 2] — DenseNet-121 model on **5,000+ images** across 30 food classes (**94% accuracy**)[cite: 2]. (`TensorFlow` · `Hugging Face`)[cite: 2]
+* **NeuroSight: Brain Tumor Classification with XAI** *(Undergraduate Thesis)* Tested 27 deep learning configurations on **2,765 MRI scans** (**97% accuracy**) and deployed a Flask app with Grad-CAM. (`Python` · `TensorFlow` · `Flask`)
+* **Foodinary: Indonesian Culinary Classifier** *(DBS Coding Camp Capstone)* DenseNet-121 model on **5,000+ images** across 30 food classes (**94% accuracy**). (`TensorFlow` · `Hugging Face`)
 
-> 💡 *Note: Professional work projects use confidential corporate data, so details are shared at an aggregate level[cite: 2]. More info inside the [full portfolio](https://drive.google.com/file/d/1YtuOr8LP7M8rqQa-i6SHXCHPOCWu-gPW/view?usp=sharing)[cite: 3, 5].*
+> 💡 *Note: Professional work projects use confidential corporate data, so details are shared at an aggregate level. More info inside the [full portfolio](https://drive.google.com/file/d/1YtuOr8LP7M8rqQa-i6SHXCHPOCWu-gPW/view?usp=sharing).*
 
 ---
 
 ## 📫 Let's Connect
 
-🤝 Hiring for a Data or BI role, or just want to chat about analytics? Drop a message on [LinkedIn](https://www.linkedin.com/in/novrianpratama/) or email me at [novrianprtama2@gmail.com](mailto:novrianprtama2@gmail.com)[cite: 2, 3, 5]!
+🤝 Hiring for a Data or BI role, or just want to chat about analytics? Drop a message on [LinkedIn](https://www.linkedin.com/in/novrianpratama/) or email me at [novrianprtama2@gmail.com](mailto:novrianprtama2@gmail.com)!
 
-🏋️‍♂️ *Outside work: Gym rat. I treat data pipelines like progressive overload[cite: 2].*
+🏋️‍♂️ *Outside work: Gym rat. I treat data pipelines like progressive overload.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0EA5E9,50:0369A1,100:0F172A" width="100%" alt="Footer"/>
