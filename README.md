@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0284c7&height=230&section=header&text=Novrian%20Pratama&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%26%20BI%20Specialist%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Looker%20Studio%20%C2%B7%20Excel&descAlignY=58&descSize=18" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=150&section=header" width="100%" alt="Banner"/>
+  <a href="https://github.com/NovrianPratama">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Novrian+Pratama;Data+Analyst+%26+Business+Intelligence+Specialist;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Looker+Studio+%C2%B7+Excel;Turning+FMCG+%26+Logistics+Data+into+Actionable+Insights" alt="Typing SVG" />
+  </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Novrian Pratama</h1>
